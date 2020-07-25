@@ -10,7 +10,7 @@ class Todos extends Component {
             <div className = "todo-container">
                 <TodoForm />
                 {this.props.todos.length === 0 && 
-                    <p>No tasks pending enjoy !!!</p>
+                    <p>No tasks pending, enjoy!!!</p>
                 }
                     {this.props.todos.map(todo => (
                         <TodoItem 

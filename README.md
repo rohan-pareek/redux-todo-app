@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Site URL [https://rp-redux-todo.netlify.app](https://rp-redux-todo.netlify.app)
 
 ## Available Scripts
 
